@@ -1,0 +1,15 @@
+"MetWatch monthly weather data for Kumeu, Auckland"
+Month,"Highest Max Temp. (°C)","Mean Max Temp. (°C)","Mean Min Temp. (°C)","Lowest Min Temp. (°C)","Mean Temperature. (°C)","Rainfall (mm)","Backup Data","Missing Data"
+January,29.3,24.4,15.2,9.1,19.8,24.0,,
+February,28.4,25.6,12.9,6.2,19.2,18.6,,
+March,26.8,24.6,11.8,6.0,18.2,17.2,,
+April,23.4,20.4,7.5,0.8,13.9,71.4,,
+May,21.9,19.1,8.5,1.6,13.8,70.6,,
+June,17.8,15.9,5.5,-1.8,10.7,68.4,,
+July,17.8,15.8,6.3,-1.0,11.1,151.8,,
+August,18.8,14.9,8.0,2.7,11.5,145.2,,
+September,17.9,16.4,8.3,2.0,12.3,145.4,,
+October,21.8,17.4,10.1,4.7,13.8,96.8,,
+November,26.3,21.3,11.0,5.0,16.1,66.4,,
+December,26.9,22.5,12.2,7.4,17.3,98.0,,
+"Information from HortPlus MetWatch www.metwatch.nz"
