@@ -50,4 +50,4 @@ jupyter notebook
 
 ## Acknowledgments
 
-* [Akbar Ghobakhlou](https://github.com/matiassingers/awesome-readme)
+* Akbar Ghobakhlou
