@@ -385,3 +385,5 @@ cython_debug/
 .history
 .ionide
 /old/
+*.h5
+models/logs/
